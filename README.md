@@ -14,3 +14,4 @@ Be sure the developer mode is on on the game
  A: script-ch30.rpyc
  B: script-ch40.rpyc
  This keybinds controls the chapters. And I wrote them by their file names on the "game" folder of the game. Good luck for the people who mods
+ Support on patreon: https://www.patreon.com/c/cagatay4579 
